@@ -1,4 +1,12 @@
-## Dark Mode
+## Dark Mode Results
+
+1. White mode
+   ![White mode](./imgs/white.png)
+
+2. Dark Mode
+   ![Dark mode](./imgs/dark.png)
+
+## Dark Mode Steps
 
 #### HTML Structure
 
